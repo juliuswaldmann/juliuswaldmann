@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+- I'm Julius.
+- I'm currently studying Informatics at [KIT, Karlsruhe](kit.edu)
+- I'm currently working on deepening my understanding of different programming languages and doing small side projects.
+
 
 <!--
 **juliuswaldmann/juliuswaldmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
